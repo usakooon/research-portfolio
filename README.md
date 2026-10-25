@@ -47,15 +47,21 @@ L-4/W1-2026, 311–318.
 
 [掲載ページ](https://doi.org/10.5194/isprs-archives-L-4-W1-2026-311-2026)
 
-## 分析手順
-[分析手順の詳細](docs/methodology.md)（整備中）
+## 分析手順・研究の記録
+- [分析手順の詳細](docs/methodology.md)（整備中）
+- [作業ログ（2026年2月〜5月）](docs/worklog/README.md)：分析期間中の作業記録の全文と年表
+- [判断の記録](docs/decisions.md)：対象駅・歩行速度・勾配の閾値・中心性指標などをいつ、なぜ決めたか
 
 ## リポジトリの構成
 - README.md：研究概要
 - figures/：研究紹介に使用する図
 - docs/：分析方法などの補足資料
+  - docs/worklog/：作業ログ
+  - docs/decisions.md：判断の記録
 ## ライセンス
 
 特に記載のない限り、本リポジトリ内の自作の文章・図表は、[Creative Commons Attribution 4.0 International（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/)の下で公開します。
+
+ライセンス本文と適用範囲は、[licenses/](licenses/README.md)をご覧ください。
 
 第三者のデータ・画像・地図等には、それぞれのライセンスが適用されます。各資料に記載された出典および利用条件をご確認ください。
