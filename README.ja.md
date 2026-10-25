@@ -8,6 +8,9 @@
 
 **使用ツール・データ（すべてオープン）：** QGIS、QuickOSM、QNEAT3、Space Syntax Toolkit、depthmapX、OpenStreetMap、基盤地図情報 5mメッシュDEM、Mapillary
 
+![対象地域の位置](figures/Figure1.png)
+*図1. 対象地域の位置（新百合ヶ丘駅：神奈川県川崎市、流山おおたかの森駅：千葉県流山市）。背景地図 © OpenStreetMap contributors*
+
 ---
 
 ## Introduction（序論）
@@ -59,6 +62,14 @@
 | High_NACH ∩ 5%以下 | 1.75 km（5.1%） | 0.61 km（1.8%） |
 | High_NACH ∩ 8%以下 | 2.05 km（6.0%） | 0.61 km（1.8%） |
 
+<table>
+<tr><th></th><th>新百合ヶ丘</th><th>流山おおたかの森</th></tr>
+<tr><th>High_NAIN</th><td><img src="figures/Shin-Yurigaoka_High_NAIN+Slope5%25.png" alt="新百合ヶ丘 High_NAIN"></td><td><img src="figures/Nagareyama-Otakanomori_High_NAIN+Slope5%25.png" alt="流山おおたかの森 High_NAIN"></td></tr>
+<tr><th>High_NACH</th><td><img src="figures/Shin-Yurigaoka_High_NACH+Slope5%25.png" alt="新百合ヶ丘 High_NACH"></td><td><img src="figures/Nagareyama-Otakanomori_High_NACH+Slope5%25.png" alt="流山おおたかの森 High_NACH"></td></tr>
+</table>
+
+*図2. 15分徒歩圏内の高中心性道路と勾配。濃い赤／濃い青：勾配5%以下の High_NAIN／High_NACH。薄いピンク／薄い紫：勾配5〜8%の High_NAIN／High_NACH。新百合ヶ丘では中心的な道の多くが5〜8%に入るが、流山おおたかの森ではほとんどない。*
+
 **新百合ヶ丘の現地調査**：2つのルートは、どちらも平均勾配で5%以下の条件を満たし、歩行者数も同程度でした。それでも、高齢者の評価は大きく分かれました。
 
 | ルート | GIS条件 | 平均／最大勾配 | 歩行者数（15分） | 歩きやすさ（5段階） | 快適さ（5段階） |
@@ -67,6 +78,13 @@
 | B：車道沿いのアクセス路 | High_NACH ∩ 5%以下 | 4.61% / **11.97%** | 143 | **2.60**（n=5） | 3.60 |
 
 流山おおたかの森は両ルートとも5.00でしたが、回答者が合計4人のため、解釈は控えています。
+
+<table>
+<tr><th>新百合ヶ丘</th><th>流山おおたかの森</th></tr>
+<tr><td><img src="figures/Shin-Yurigaoka.png" alt="新百合ヶ丘の調査ルート"></td><td><img src="figures/Nagareyama-Otakanomori.png" alt="流山おおたかの森の調査ルート"></td></tr>
+</table>
+
+*図3. 現地調査のルートとMapillaryの撮影ルート。赤：ルートA（High_NAIN ∩ 5%以下）、青：ルートB（High_NACH ∩ 5%以下、ルートAと重ならない区間）、緑の点：Mapillaryの撮影ルート1〜4*
 
 ## Discussion（考察）
 

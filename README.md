@@ -10,6 +10,9 @@
 
 **Tools & data (all open):** QGIS · QuickOSM · QNEAT3 · Space Syntax Toolkit · depthmapX · OpenStreetMap · GSI 5 m DEM · Mapillary
 
+![Location of the study areas](figures/Figure1.png)
+*Figure 1. Location of the study areas: Shin-Yurigaoka Station (Kawasaki, Kanagawa) and Nagareyama-Otakanomori Station (Nagareyama, Chiba). Basemap © OpenStreetMap contributors.*
+
 ---
 
 ## Introduction
@@ -81,6 +84,14 @@ Full procedure: [docs/methodology.md](docs/methodology.md)
 | High NACH ∩ ≤ 5% | 1.75 km (5.1%) | 0.61 km (1.8%) |
 | High NACH ∩ ≤ 8% | 2.05 km (6.0%) | 0.61 km (1.8%) |
 
+<table>
+<tr><th></th><th>Shin-Yurigaoka</th><th>Nagareyama-Otakanomori</th></tr>
+<tr><th>High NAIN</th><td><img src="figures/Shin-Yurigaoka_High_NAIN+Slope5%25.png" alt="Shin-Yurigaoka High NAIN"></td><td><img src="figures/Nagareyama-Otakanomori_High_NAIN+Slope5%25.png" alt="Nagareyama-Otakanomori High NAIN"></td></tr>
+<tr><th>High NACH</th><td><img src="figures/Shin-Yurigaoka_High_NACH+Slope5%25.png" alt="Shin-Yurigaoka High NACH"></td><td><img src="figures/Nagareyama-Otakanomori_High_NACH+Slope5%25.png" alt="Nagareyama-Otakanomori High NACH"></td></tr>
+</table>
+
+*Figure 2. High-centrality roads by slope, within the 15-minute catchment. Dark red / dark blue: High NAIN / High NACH roads with slope ≤ 5%. Light pink / light purple: High NAIN / High NACH roads with slope 5–8%. At Shin-Yurigaoka many central roads fall in the 5–8% class; at Nagareyama-Otakanomori almost none do.*
+
 **Field survey at Shin-Yurigaoka.** Both routes passed the ≤ 5% condition on mean slope and carried similar pedestrian counts. Elderly respondents rated them very differently.
 
 | Route | GIS condition | Mean / max slope | Pedestrians (15 min) | Ease of walking (1–5) | Comfort (1–5) |
@@ -89,6 +100,13 @@ Full procedure: [docs/methodology.md](docs/methodology.md)
 | B: roadside access | High NACH ∩ ≤ 5% | 4.61% / **11.97%** | 143 | **2.60** (n = 5) | 3.60 |
 
 At Nagareyama-Otakanomori, both routes scored 5.00, but with only 4 respondents in total, so this result is not interpreted.
+
+<table>
+<tr><th>Shin-Yurigaoka</th><th>Nagareyama-Otakanomori</th></tr>
+<tr><td><img src="figures/Shin-Yurigaoka.png" alt="Survey routes at Shin-Yurigaoka"></td><td><img src="figures/Nagareyama-Otakanomori.png" alt="Survey routes at Nagareyama-Otakanomori"></td></tr>
+</table>
+
+*Figure 3. Field-survey routes and Mapillary capture routes. Red: Route A (High NAIN ∩ ≤ 5%). Blue: Route B (High NACH ∩ ≤ 5%, not overlapping Route A). Green dots: Mapillary capture routes 1–4.*
 
 ## Discussion
 
