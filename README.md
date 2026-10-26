@@ -13,6 +13,10 @@ Slides presented at FOSS4G Hiroshima 2026, Japan (English, 21 slides).
 - [**View presentation slides (Google Slides)**](https://docs.google.com/presentation/d/1A_D8YB66W_3_lo8qsubTinwhgNYnUv8dldwT9gX-Ckw/edit?usp=sharing)
 - **Title:** How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas?
 - **Subtitle:** A case study of Shin-Yurigaoka and Nagareyama-Otakanomori station areas
+- **Date and time:** Tuesday, September 1, 2026, 4:30 PM
+- **Room:** Cosmos1
+- **Track:** Academic Track
+- [**Official program**](https://2026.foss4g.org/en/program-schedule/presentations/)
 
 **Keywords:** Walkability · Elderly People · Space Syntax · Angular Segment Analysis · Slope Analysis · Suburban Railway Station Areas
 

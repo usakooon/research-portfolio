@@ -13,6 +13,10 @@ FOSS4G Hiroshima 2026, Japan で発表したスライド（英語・全21枚）�
 - [**発表スライドを見る（Google Slides）**](https://docs.google.com/presentation/d/1A_D8YB66W_3_lo8qsubTinwhgNYnUv8dldwT9gX-Ckw/edit?usp=sharing)
 - **タイトル：** How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas?
 - **副題：** A case study of Shin-Yurigaoka and Nagareyama-Otakanomori station areas
+- **発表日時：** 2026年9月1日（火）16:30
+- **会場：** Cosmos1
+- **トラック：** Academic Track
+- [**公式プログラム**](https://2026.foss4g.org/en/program-schedule/presentations/)
 
 **使用ツール・データ（すべてオープン）：** QGIS、QuickOSM、QNEAT3、Space Syntax Toolkit、depthmapX、OpenStreetMap、基盤地図情報 5mメッシュDEM、Mapillary
 
