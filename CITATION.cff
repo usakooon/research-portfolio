@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this research or its materials, please cite the paper below."
+title: "Walkability for Elderly People in Hilly and Flat Station Areas: Research Portfolio"
+authors:
+  - family-names: Terado
+    given-names: Hinako
+url: "https://github.com/usakooon/research-portfolio"
+keywords:
+  - GIS
+  - Space Syntax
+  - Walkability
+  - QGIS
+  - OpenStreetMap
+  - Elderly People
+  - Slope Analysis
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Terado
+      given-names: Hinako
+  title: "How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas? A Case Study of Shin-Yurigaoka Station and Nagareyama-Otakanomori Station"
+  journal: "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+  volume: "L-4/W1-2026"
+  start: 311
+  end: 318
+  year: 2026
+  month: 8
+  doi: "10.5194/isprs-archives-L-4-W1-2026-311-2026"
+  url: "https://isprs-archives.copernicus.org/articles/L-4-W1-2026/311/2026/"
