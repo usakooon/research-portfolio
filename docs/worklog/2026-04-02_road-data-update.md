@@ -86,8 +86,8 @@ highway_completed_clip
 
 ### 705m
 
-<!-- image: download failed -->
+![Integration（R705）の道路網段階区分図](images/2026-04-02_road-data-update_01.png)
 
 ## 470m
 
-<!-- image: download failed -->
+![Integration（R470）の道路網段階区分図](images/2026-04-02_road-data-update_02.png)

@@ -40,9 +40,9 @@ Road-centre-line-simplification…
   - レイヤA（地上）: **`layer`** 0（または空）、かつ **`bridge`** や **`tunnel`** を持たない線。
     - **レイヤAの処理:** 「線で分割」 実行後 ➔ 「Douglas-Peuckerで単純化」：許容値１ｍ
 
-  <!-- image: download failed (レイヤA 線で分割・単純化の結果 1) -->
+  ![レイヤA 線で分割・単純化の結果 1](images/2026-02-26_road-preparation-v2_01.png)
 
-  <!-- image: download failed (レイヤA 線で分割・単純化の結果 2) -->
+  ![レイヤA 線で分割・単純化の結果 2](images/2026-02-26_road-preparation-v2_02.png)
 
   - レイヤB（立体）: **`layer＞０`**/マイナス、または **`bridge=yes`** の線。
     - **レイヤBの処理:** （交差点分割はせず）➔ 「Douglas-Peuckerで単純化」許容値0.5

@@ -38,7 +38,7 @@ OpenStreetMap から道路データを抽出
 - 交差点や端点が微妙にズレているのを修正
 - トポロジー（接続）を安定させる
 
-<!-- image: download failed (スナップ処理の設定・結果) -->
+![スナップ処理の設定・結果](images/2026-02-25_road-preparation_01.png)
 
 ---
 
@@ -58,7 +58,7 @@ OpenStreetMap から道路データを抽出
 
 **効果**
 
-<!-- image: download failed (Fix geometries 後の検査結果) -->
+![Fix geometries 後の検査結果](images/2026-02-25_road-preparation_02.png)
 
 ---
 
@@ -101,7 +101,7 @@ Merge Lines では結合できない
 
 同種道路の分割を統合
 
-<!-- image: download failed (Dissolve 後の結果) -->
+![Dissolve 後の結果](images/2026-02-25_road-preparation_03.png)
 
 ---
 

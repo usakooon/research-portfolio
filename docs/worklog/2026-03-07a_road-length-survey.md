@@ -88,13 +88,13 @@ Sum
 総延長
 ```
 
-<!-- image: download failed (p1 の length_m 統計量) -->
+![p1 の length_m 統計量](images/2026-03-07a_road-length-survey_01.png)
 
-<!-- image: download failed (p2 の length_m 統計量) -->
+![p2 の length_m 統計量](images/2026-03-07a_road-length-survey_02.png)
 
-<!-- image: download failed (p3 の length_m 統計量) -->
+![p3 の length_m 統計量](images/2026-03-07a_road-length-survey_03.png)
 
-<!-- image: download failed (all の length_m 統計量) -->
+![all の length_m 統計量](images/2026-03-07a_road-length-survey_04.png)
 
 | length_m | Sum（m） | Sum（km） | all比（%） |
 | --- | --- | --- | --- |
@@ -203,16 +203,16 @@ km²
 
 - **p1 高統合**：`Integration >= ____(20%以上)`（上位20%の閾値 or ランク）
 
-  <!-- image: download failed (p1 高統合の統計量) -->
+  ![p1 高統合の統計量](images/2026-03-07a_road-length-survey_05.png)
 - **p2 低勾配**：`grade_pct_final_mean <= 8.1`
 
-  <!-- image: download failed (p2 低勾配の統計量) -->
+  ![p2 低勾配の統計量](images/2026-03-07a_road-length-survey_06.png)
 - **p3 両方**：`Integration >= ____(20%以上) AND grade_pct_final_mean <= 8.1`
 
-  <!-- image: download failed (p3 高統合∩低勾配の統計量) -->
+  ![p3 高統合∩低勾配の統計量](images/2026-03-07a_road-length-survey_07.png)
 - All
 
-  <!-- image: download failed (all の統計量) -->
+  ![all の統計量](images/2026-03-07a_road-length-survey_08.png)
 
 | length_m | Sum（m） | Sum（km） | all比（%） |
 | --- | --- | --- | --- |

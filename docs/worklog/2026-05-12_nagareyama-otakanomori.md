@@ -8,7 +8,7 @@
 
 ---
 
-<!-- image: download failed -->
+![流山おおたかの森駅周辺の調査ルートA・B](images/2026-05-12_nagareyama-otakanomori_01.png)
 
 - RouteA → [付録: RouteA](#付録-routea)
 - RouteB → [付録: RouteB](#付録-routeb)
@@ -20,7 +20,7 @@
 
 ## Mapillary Route
 
-<!-- image: download failed -->
+![流山おおたかの森駅周辺のMapillary撮影ルート1〜4](images/2026-05-12_nagareyama-otakanomori_02.png)
 
 ### 選定条件
 
@@ -34,16 +34,16 @@
 
 ## 付録: RouteA
 
-<!-- image: download failed -->
+> *（画像: Google ストリートビューの画面のため非掲載）*
 
-<!-- image: download failed -->
+![ルートAの長さ（QGISの地物情報）](images/2026-05-12_nagareyama-otakanomori_04.png)
 
 - 長さ楕円体の方をみる
 
-<!-- image: download failed -->
+> *（画像: Google Earth の画面のため非掲載（ルート長・標高の計測に使用））*
 
 ## 付録: RouteB
 
-<!-- image: download failed -->
+> *（画像: Google ストリートビューの画面のため非掲載）*
 
-<!-- image: download failed -->
+![ルートBの長さ（QGISの地物情報）](images/2026-05-12_nagareyama-otakanomori_07.png)

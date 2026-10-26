@@ -42,7 +42,7 @@
 
 [www.iatss.or.jp](https://www.iatss.or.jp/entry_img/31-4-14.pdf)
 
-<!-- image: download failed (歩行速度に関する参考資料の抜粋) -->
+> *（画像: 第三者の論文の表のため非掲載（出典は本文の参考資料を参照））*
 
 [www.fhwa.dot.gov](https://www.fhwa.dot.gov/publications/research/safety/pedbike/05085/pdf/lesson8lo.pdf)
 
@@ -60,7 +60,7 @@
 - Speed: 3.6km/h
 - CRS:そろえること。WGS84は使えない
 
-<!-- image: download failed (QNEAT3による15分徒歩圏ポリゴン) -->
+![QNEAT3による15分徒歩圏ポリゴン](images/2026-02-21_station-speed-isochrone-roads_02.png)
 
 ---
 
@@ -127,7 +127,7 @@
 - **「ジオメトリをレイヤにスナップ」**
 - road_raw_2kmコピーを入力レイヤ、参照レイヤに
 
-<!-- image: download failed (ジオメトリをレイヤにスナップの設定画面) -->
+![ジオメトリをレイヤにスナップの設定画面](images/2026-02-21_station-speed-isochrone-roads_03.png)
 
 > [!NOTE]
 > - ✅ motorway / motorway_link：削除

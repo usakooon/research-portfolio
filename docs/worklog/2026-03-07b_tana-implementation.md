@@ -19,23 +19,23 @@
 
 ### p1: 高統合（integration上位20％以上）
 
-<!-- image: download failed (p1 高統合の統計量) -->
+![p1 高統合の統計量](images/2026-03-07b_tana-implementation_01.png)
 
-<!-- image: download failed (p1 高統合の地図) -->
+![p1 高統合の地図](images/2026-03-07b_tana-implementation_02.png)
 
 ### p2: 低勾配（≤8.1）
 
-<!-- image: download failed (p2 低勾配の統計量) -->
+![p2 低勾配の統計量](images/2026-03-07b_tana-implementation_03.png)
 
 ### p3: 高統合∩低勾配
 
-<!-- image: download failed (p3 高統合∩低勾配の統計量) -->
+![p3 高統合∩低勾配の統計量](images/2026-03-07b_tana-implementation_04.png)
 
-<!-- image: download failed (p3 高統合∩低勾配の地図) -->
+![p3 高統合∩低勾配の地図](images/2026-03-07b_tana-implementation_05.png)
 
 all
 
-<!-- image: download failed (all の統計量) -->
+![all の統計量](images/2026-03-07b_tana-implementation_06.png)
 
 ## Result clip_ver
 
@@ -48,16 +48,16 @@ all
 
 p1
 
-<!-- image: download failed (clip_ver p1 の統計量) -->
+![clip_ver p1 の統計量](images/2026-03-07b_tana-implementation_07.png)
 
 p2
 
-<!-- image: download failed (clip_ver p2 の統計量) -->
+![clip_ver p2 の統計量](images/2026-03-07b_tana-implementation_08.png)
 
 p3
 
-<!-- image: download failed (clip_ver p3 の統計量) -->
+![clip_ver p3 の統計量](images/2026-03-07b_tana-implementation_09.png)
 
 p4
 
-<!-- image: download failed (clip_ver p4 の統計量) -->
+![clip_ver p4 の統計量](images/2026-03-07b_tana-implementation_10.png)

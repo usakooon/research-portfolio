@@ -71,9 +71,9 @@ Q勾配が多少あっても、緑・歩車分離・休憩可能性によって�
 | C | 198.6m | 緑が多い、歩車分離、歩道広い、休憩場所あり、なだらかな坂が長く続く、上麻生方面と駅をつなぐ道 | 快適・緑あり・長めの歩行環境型ルート |
 | ~~第二候補 B~~ | 247.0m | 歩道狭め、歩車分離あり、なだらかな坂、消防署・市役所にアクセス可 | 行政施設方面アクセス型ルート |
 
-<!-- image: download failed -->
+![新百合ヶ丘駅周辺の調査ルート候補A・B・C](images/2026-05-08_research-refinement_01.png)
 
-<!-- image: download failed -->
+![ルートA・B・C別の道路延長の統計量](images/2026-05-08_research-refinement_02.png)
 
 > 本調査では、距離が近く、駅アクセス上の性格が異なる第一候補A・Bを主対象とした。第一候補Aは整備された歩行者空間型ルート、第一候補Bは万福寺方面から駅へ向かう実用的アクセスルートとして位置づけた。加えて、緑・歩車分離・休憩可能性を持つ第二候補Aについては、歩行環境の質的要素を補足的に把握するため、現地観察および簡易記録を行った。
 
@@ -117,29 +117,29 @@ Q勾配が多少あっても、緑・歩車分離・休憩可能性によって�
 
 ## 付録: A候補：NAIN_top20 AND NACH_top20 AND slope_5
 
-<!-- image: download failed -->
+![A候補（NAIN・NACH上位20%∩低勾配）の道路](images/2026-05-08_research-refinement_03.png)
 
 35.6021969,139.5095696
 
-<!-- image: download failed -->
+> *（画像: Google ストリートビューの画面のため非掲載）*
 
 segLEG: 137.2m
 
-<!-- image: download failed -->
+> *（画像: Google Earth の画面のため非掲載（ルート長・標高の計測に使用））*
 
 整備された歩行者空間・商業施設周辺・比較的快適なルート/駅前商業空間と住宅地側を結ぶ歩行者優先ルート
 
 ## 付録: B候補：NAIN_top30 AND NACH_top20 AND slope_5
 
-<!-- image: download failed -->
+![B候補（万福寺方面からの駅アクセス道路）](images/2026-05-08_research-refinement_06.png)
 
 35.60451794,139.50716195
 
-<!-- image: download failed -->
+> *（画像: Google ストリートビューの画面のため非掲載）*
 
 segLEG: 137.7m
 
-<!-- image: download failed -->
+> *（画像: Google Earth の画面のため非掲載（ルート長・標高の計測に使用））*
 
 車道沿い・やや勾配あり・住宅地／万福寺方面から駅へ向かう実用的アクセスルート
 
@@ -158,7 +158,7 @@ segLEG: 137.7m
 | 10:40–10:45 |  |  |  |  |  |
 | 合計 |  |  |  |  |  |
 
-<!-- image: download failed -->
+![歩行者カウントアプリの入力画面](images/2026-05-08_research-refinement_09.png)
 
 ### 現地環境チェックシート
 

@@ -46,7 +46,7 @@
 
 # Result
 
-<!-- image: download failed (青葉区 駅1kmバッファのゾーン統計結果) -->
+![青葉区 駅1kmバッファのゾーン統計結果](images/2026-02-18_station-mean-slope_01.png)
 
 ## 平均勾配（%）ランキング（小さい＝平坦寄り）
 
@@ -103,7 +103,7 @@
 
 ここまでで「161%が出てる斜面の塊」が地図上で見えるはず。
 
-<!-- image: download failed (青葉台1km圏 slope_pct 切り抜きの疑似カラー表示) -->
+![青葉台1km圏 slope_pct 切り抜きの疑似カラー表示](images/2026-02-18_station-mean-slope_02.png)
 
 # 麻生区の駅　平均勾配ランキング
 
@@ -118,4 +118,4 @@
 7. **satsukidai**：**17.156625999091567**
 8. **kakio**：**17.551034130778934**
 
-<!-- image: download failed (麻生区 駅1kmバッファのゾーン統計結果) -->
+![麻生区 駅1kmバッファのゾーン統計結果](images/2026-02-18_station-mean-slope_03.png)

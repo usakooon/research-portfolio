@@ -110,7 +110,7 @@ CASE WHEN grade_pct > 30 THEN NULL ELSE grade_pct END
  "INTr900m" >=368.40308 
 ```
 
-<!-- image: download failed (Integration上位20%の道路セグメント地図) -->
+![Integration上位20%の道路セグメント地図](images/2026-03-05_slope-to-roads_01.png)
 
 ### ②Grade8.0%以下（低勾配）
 

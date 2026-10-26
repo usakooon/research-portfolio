@@ -10,13 +10,13 @@
 
 ## 勾配5%+2.8km/h
 
-<!-- image: download failed -->
+![勾配5%・2.8km/h p1 高統合の統計量](images/2026-05-06_nagareyama-results_01.png)
 
-<!-- image: download failed -->
+![勾配5%・2.8km/h p2 低勾配の統計量](images/2026-05-06_nagareyama-results_02.png)
 
-<!-- image: download failed -->
+![勾配5%・2.8km/h p3 高統合∩低勾配の統計量](images/2026-05-06_nagareyama-results_03.png)
 
-<!-- image: download failed -->
+![勾配5%・2.8km/h 全道路の統計量](images/2026-05-06_nagareyama-results_04.png)
 
 | 区分 | 意味 | 地物数 | 延長 m | 延長 km | 全体比 |
 | --- | --- | --- | --- | --- | --- |
@@ -32,13 +32,13 @@
 
 ## Less than Grade5%+2.5km/h
 
-<!-- image: download failed -->
+![勾配5%・2.5km/h p1 高統合の統計量](images/2026-05-06_nagareyama-results_05.png)
 
-<!-- image: download failed -->
+![勾配5%・2.5km/h p2 低勾配の統計量](images/2026-05-06_nagareyama-results_06.png)
 
-<!-- image: download failed -->
+![勾配5%・2.5km/h p3 高統合∩低勾配の統計量](images/2026-05-06_nagareyama-results_07.png)
 
-<!-- image: download failed -->
+![勾配5%・2.5km/h 全道路の統計量](images/2026-05-06_nagareyama-results_08.png)
 
 | 区分 | 意味 | 地物数 | 延長 m | 延長 km | 全体比 |
 | --- | --- | --- | --- | --- | --- |
@@ -54,15 +54,15 @@
 
 ## Grade Less than 8.0%+2.8km/h
 
-<!-- image: download failed -->
+![勾配8%・2.8km/h p2 低勾配の統計量](images/2026-05-06_nagareyama-results_09.png)
 
-<!-- image: download failed -->
+![勾配8%・2.8km/h p3 高統合∩低勾配の統計量](images/2026-05-06_nagareyama-results_10.png)
 
 ## Grade Less than 8.0%+2.5km/h
 
-<!-- image: download failed -->
+![勾配8%・2.5km/h p2 低勾配の統計量](images/2026-05-06_nagareyama-results_11.png)
 
-<!-- image: download failed -->
+![勾配8%・2.5km/h p3 高統合∩低勾配の統計量](images/2026-05-06_nagareyama-results_12.png)
 
 ## 比較表
 

@@ -10,7 +10,7 @@
 
 ## RouteA/B/C
 
-<!-- image: download failed -->
+![新百合ヶ丘駅周辺の調査ルートA・B・C](images/2026-05-10_survey-preparation_01.png)
 
 | Route | 距離 | 特徴 | 研究上の役割 |
 | --- | --- | --- | --- |

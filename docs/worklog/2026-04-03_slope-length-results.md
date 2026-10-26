@@ -17,7 +17,9 @@
 - 5%を最初採用
 - 結果次第で、8%にする可能性あり。
 
-<!-- image: download failed -->
+![国交省ガイドラインの縦断勾配基準（5%／8%）](images/2026-04-03_slope-length-results_01.png)
+
+*出典：国土交通省「道路の移動等円滑化に関するガイドライン」より抜粋*
 
 ## Integration値上位20％
 
@@ -35,17 +37,17 @@
 
 - **p1 高統合**：`Integration >= ____(20%以上)`（上位20%の閾値 or ランク）
 
-  <!-- image: download failed -->
+  ![勾配5%・2.8km/h p1 高統合の統計量](images/2026-04-03_slope-length-results_02.png)
 - **p2 低勾配**：` grade_pct_final_mean <= 5.1`
 
-<!-- image: download failed -->
+![勾配5%・2.8km/h p2 低勾配の統計量](images/2026-04-03_slope-length-results_03.png)
 
 - **p3 両方**：`Integration >= ____(20%以上) AND grade_pct_final_mean <= 5.1`
 
-  <!-- image: download failed -->
+  ![勾配5%・2.8km/h p3 高統合∩低勾配の統計量](images/2026-04-03_slope-length-results_04.png)
 - All
 
-<!-- image: download failed -->
+![勾配5%・2.8km/h 全道路の統計量](images/2026-04-03_slope-length-results_05.png)
 
 | length_m | Sum (m) | Sum (km) | all比（%） |
 | --- | --- | --- | --- |

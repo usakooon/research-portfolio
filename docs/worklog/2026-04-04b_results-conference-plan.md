@@ -12,19 +12,19 @@
 
 all
 
-<!-- image: download failed -->
+![勾配5%・2.5km/h 全道路の統計量](images/2026-04-04b_results-conference-plan_01.png)
 
 p1
 
-<!-- image: download failed -->
+![勾配5%・2.5km/h p1 高統合の統計量](images/2026-04-04b_results-conference-plan_02.png)
 
 p2
 
-<!-- image: download failed -->
+![勾配5%・2.5km/h p2 低勾配の統計量](images/2026-04-04b_results-conference-plan_03.png)
 
 p3
 
-<!-- image: download failed -->
+![勾配5%・2.5km/h p3 高統合∩低勾配の統計量](images/2026-04-04b_results-conference-plan_04.png)
 
 | length_m | Sum (m) | Sum (km) | all比（%） |
 | --- | --- | --- | --- |
@@ -58,19 +58,19 @@ p3
 
 p1
 
-<!-- image: download failed -->
+![勾配8%・2.8km/h p1 高統合の統計量](images/2026-04-04b_results-conference-plan_05.png)
 
 p2
 
-<!-- image: download failed -->
+![勾配8%・2.8km/h p2 低勾配の統計量](images/2026-04-04b_results-conference-plan_06.png)
 
 p3
 
-<!-- image: download failed -->
+![勾配8%・2.8km/h p3 高統合∩低勾配の統計量](images/2026-04-04b_results-conference-plan_07.png)
 
 all
 
-<!-- image: download failed -->
+![勾配8%・2.8km/h 全道路の統計量](images/2026-04-04b_results-conference-plan_08.png)
 
 | 区分 | 意味 | 延長 (km) | 割合 |
 | --- | --- | --- | --- |

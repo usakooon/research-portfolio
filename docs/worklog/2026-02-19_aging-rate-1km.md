@@ -122,7 +122,7 @@
 - satukidai 21.49% / yurigaoka 21.44% / kakio 21.27% / kurihira 21.35%
 - kurokawa 17.55% / wakabadai 14.03% / haruhino 12.41%
 
-<!-- image: download failed (麻生区 駅1km圏 高齢化率の集計結果) -->
+![麻生区 駅1km圏 高齢化率の集計結果](images/2026-02-19_aging-rate-1km_01.png)
 
 ### 青葉区（先に作成した表から計算）
 
@@ -136,7 +136,7 @@
 - Azamino 19.00%
 - Tamaplaza 17.71%
 
-<!-- image: download failed (青葉区 駅1km圏 高齢化率の集計結果) -->
+![青葉区 駅1km圏 高齢化率の集計結果](images/2026-02-19_aging-rate-1km_02.png)
 
 ## 比較駅の選定
 
@@ -169,7 +169,7 @@
 7. **satsukidai**：**17.156625999091567**
 8. **kakio**：**17.551034130778934**
 
-<!-- image: download failed (麻生区 平均勾配の集計結果) -->
+![麻生区 平均勾配の集計結果](images/2026-02-19_aging-rate-1km_03.png)
 
 ## 青葉台：平均勾配（%）ランキング（小さい＝平坦寄り）
 
@@ -183,7 +183,7 @@
 8. 恩田 Onda：13.955
 9. こどもの国 Kodomono：14.071
 
-<!-- image: download failed (青葉区 平均勾配の集計結果) -->
+![青葉区 平均勾配の集計結果](images/2026-02-19_aging-rate-1km_04.png)
 
 ### B) 「平坦 × 高齢化率が高い」を選ぶ（社会課題の含意を強める）
 
