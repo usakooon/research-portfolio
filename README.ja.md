@@ -4,7 +4,15 @@
 
 [English version](README.md)
 
-> Terado, H. (2026). How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas? A Case Study of Shin-Yurigaoka Station and Nagareyama-Otakanomori Station. *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, L-4/W1-2026, 311–318. FOSS4G 2026 Academic Track（広島）. [doi:10.5194/isprs-archives-L-4-W1-2026-311-2026](https://doi.org/10.5194/isprs-archives-L-4-W1-2026-311-2026)
+> Terado, H. (2026). How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas? A Case Study of Shin-Yurigaoka Station and Nagareyama-Otakanomori Station. *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, L-4/W1-2026, 311–318. FOSS4G Hiroshima 2026, Japan (Academic Track). [doi:10.5194/isprs-archives-L-4-W1-2026-311-2026](https://doi.org/10.5194/isprs-archives-L-4-W1-2026-311-2026)
+
+## 発表資料
+
+FOSS4G Hiroshima 2026, Japan で発表したスライド（英語・全21枚）です。
+
+- [**発表スライドを見る（Google Slides）**](https://docs.google.com/presentation/d/1A_D8YB66W_3_lo8qsubTinwhgNYnUv8dldwT9gX-Ckw/edit?usp=sharing)
+- **タイトル：** How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas?
+- **副題：** A case study of Shin-Yurigaoka and Nagareyama-Otakanomori station areas
 
 **使用ツール・データ（すべてオープン）：** QGIS、QuickOSM、QNEAT3、Space Syntax Toolkit、depthmapX、OpenStreetMap、基盤地図情報 5mメッシュDEM、Mapillary
 

@@ -4,7 +4,15 @@
 
 [日本語版はこちら / Japanese version](README.ja.md)
 
-> Terado, H. (2026). How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas? A Case Study of Shin-Yurigaoka Station and Nagareyama-Otakanomori Station. *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, L-4/W1-2026, 311–318. FOSS4G 2026 Academic Track (Hiroshima). [doi:10.5194/isprs-archives-L-4-W1-2026-311-2026](https://doi.org/10.5194/isprs-archives-L-4-W1-2026-311-2026)
+> Terado, H. (2026). How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas? A Case Study of Shin-Yurigaoka Station and Nagareyama-Otakanomori Station. *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, L-4/W1-2026, 311–318. FOSS4G Hiroshima 2026, Japan (Academic Track). [doi:10.5194/isprs-archives-L-4-W1-2026-311-2026](https://doi.org/10.5194/isprs-archives-L-4-W1-2026-311-2026)
+
+## Presentation
+
+Slides presented at FOSS4G Hiroshima 2026, Japan (English, 21 slides).
+
+- [**View presentation slides (Google Slides)**](https://docs.google.com/presentation/d/1A_D8YB66W_3_lo8qsubTinwhgNYnUv8dldwT9gX-Ckw/edit?usp=sharing)
+- **Title:** How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas?
+- **Subtitle:** A case study of Shin-Yurigaoka and Nagareyama-Otakanomori station areas
 
 **Keywords:** Walkability · Elderly People · Space Syntax · Angular Segment Analysis · Slope Analysis · Suburban Railway Station Areas
 
