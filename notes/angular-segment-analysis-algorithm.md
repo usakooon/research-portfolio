@@ -184,6 +184,9 @@ $$
 7. Terado, H. (2026). *How Does Walkability for Elderly People Differ between Hilly and Flat Urban Areas? A Case Study of Shin-Yurigaoka Station and Nagareyama-Otakanomori Station*. ISPRS Archives, L-4/W1-2026, 311–318. https://doi.org/10.5194/isprs-archives-L-4-W1-2026-311-2026
 
 ## 10. 次回学習する点
+- NAINとNACHの計算の理解を深める
+- Choiceの値の出し方
+- ATDの値の出し方
 - Radiusの意味と計算範囲：研究で用いた705mのMetric Radiusが、どのように経路探索範囲を制限するのか。
 - セグメントの作り方：OSM道路の接続、交差点分割、線の簡略化が結果に与える影響。
 - アルゴリズムの再現：小さなネットワークで手計算した指標とdepthmapXの結果を照合する。
